@@ -1,0 +1,6 @@
+(1):use the inspector to check the login form 
+(2):create a new session, and then post the login_data to the server
+(3):keep session on, and use get method to pass the url that you wants to crawl
+(4):maybe you will still need to input the captcha, just download the image (like douban.py), and then (2)
+
+Be aware of the meanings of GET and POST
